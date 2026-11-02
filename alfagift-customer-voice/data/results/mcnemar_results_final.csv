@@ -1,0 +1,4 @@
+﻿Perbandingan,b,c,Chi2,p_value,p_value_holm,signifikan,arah_perbedaan
+SVM + TF-IDF vs IndoBERT,148,250,25.63065326633166,4.1341961125351434e-07,1.2402588337605431e-06,True,Model kedua lebih banyak menghasilkan prediksi benar
+SVM + TF-IDF vs XLM-R,175,241,10.15625,0.001438128518773819,0.002876257037547638,True,Model kedua lebih banyak menghasilkan prediksi benar
+IndoBERT vs XLM-R,146,110,4.78515625,0.02870604321760334,0.02870604321760334,True,Model pertama lebih banyak menghasilkan prediksi benar
